@@ -56,7 +56,7 @@ pip (Python package manager)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/finance-ai-assistant.git
+git clone https://github.com/Kanhaiya1610/finance-ai-assistant.git
 cd finance-ai-assistant
 ```
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 - Download your Firebase credentials JSON
 - Create a .env file and add your Firebase credentials path:
 ```
-FIREBASE_CREDENTIALS=path/to/your/credentials.json
+FIREBASE_CREDENTIALS=path/to/user/credentials.json
 ```
 
 4. Run the application:
