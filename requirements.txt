@@ -1,0 +1,9 @@
+streamlit
+nltk
+speechrecognition
+pyttsx3
+pandas
+plotly
+numpy
+yfinance
+schedule
