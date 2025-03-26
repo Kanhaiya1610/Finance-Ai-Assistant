@@ -14,7 +14,7 @@ import time
 import schedule
 from plotly.subplots import make_subplots
 
-# Set page configuration
+# Set page configuration hola 
 st.set_page_config(
     page_title="Finance AI Assistant",
     page_icon="💰",
